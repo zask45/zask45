@@ -1,8 +1,7 @@
 # Hi, I'm Keysha 👋
 
-A Student who aspires to become Android Engineer. <br>
-
-- 🌱 I’m currently learning about android development
+Final year Computer Science student. <br>
+- 🌱 Currently learning about android development
 - 💬 Feel free to ask me about android development, HTML, CSS, and JavaScript
 - 📫 How to reach me: [linkedin.com/keyzm](https://www.linkedin.com/in/keyzm/)
 
