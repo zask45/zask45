@@ -9,7 +9,7 @@ Final year Computer Science student. <br>
 <p align="left">
 <a href="https://github.com/zask45">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zask45&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zask45&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zask45&exclude_repo=sisparter-uas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
